@@ -247,4 +247,59 @@ DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+UID:carrey-huang-prada-roermond-20261123@chatgpt-calendar
+DTSTAMP:20261030T122500Z
+DTSTART;TZID=Europe/Amsterdam:20261123T094500
+DTEND;TZID=Europe/Amsterdam:20261123T174500
+SUMMARY:Prada Roermond - Work
+LOCATION:Prada Outlet Roermond
+DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:carrey-huang-prada-roermond-20261124@chatgpt-calendar
+DTSTAMP:20261030T122500Z
+DTSTART;TZID=Europe/Amsterdam:20261124T091500
+DTEND;TZID=Europe/Amsterdam:20261124T171500
+SUMMARY:Prada Roermond - Work
+LOCATION:Prada Outlet Roermond
+DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:carrey-huang-prada-roermond-20261125@chatgpt-calendar
+DTSTAMP:20261030T122500Z
+DTSTART;TZID=Europe/Amsterdam:20261125T123000
+DTEND;TZID=Europe/Amsterdam:20261125T203000
+SUMMARY:Prada Roermond - Work
+LOCATION:Prada Outlet Roermond
+DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:carrey-huang-prada-roermond-20261126@chatgpt-calendar
+DTSTAMP:20261030T122500Z
+DTSTART;TZID=Europe/Amsterdam:20261126T123000
+DTEND;TZID=Europe/Amsterdam:20261126T203000
+SUMMARY:Prada Roermond - Work
+LOCATION:Prada Outlet Roermond
+DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:carrey-huang-prada-roermond-20261129@chatgpt-calendar
+DTSTAMP:20261030T122500Z
+DTSTART;TZID=Europe/Amsterdam:20261129T133000
+DTEND;TZID=Europe/Amsterdam:20261129T223000
+SUMMARY:Prada Roermond - Work
+LOCATION:Prada Outlet Roermond
+DESCRIPTION:Carrey Huang - scheduled work shift (breaks not deducted)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
